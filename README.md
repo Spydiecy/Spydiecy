@@ -15,6 +15,8 @@ Greetings! 👋 I'm Tanishq Gupta, an 18-year-old computer science enthusiast cu
 
 Explore a diverse collection of projects that showcase my coding journey and technical prowess. From web development to blockchain, each repository represents a unique coding adventure.
 
+[![Spydiecy's GitHub | Stats](https://stats.quine.sh/Spydiecy/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Spydiecy)
+
 ## Let's Collaborate!
 
 I'm open to collaboration and eager to contribute to exciting projects. If you have ideas or projects aligned with my skills and interests, let's connect and turn them into reality.
@@ -22,6 +24,8 @@ I'm open to collaboration and eager to contribute to exciting projects. If you h
 🌐 [LinkedIn](https://www.linkedin.com/in/tanishq-gupta) | 💻 [GitHub](https://github.com/TanishqGupta03)
 
 Feel free to reach out, and let's code something extraordinary together! 🚀
+
+
 
 <!--
 **Spydiecy/Spydiecy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
