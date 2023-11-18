@@ -1,4 +1,4 @@
-# Tanishq Gupta - GitHub Profile
+# Hi 👋, I'm Tanishq
 
 ## About Me
 
