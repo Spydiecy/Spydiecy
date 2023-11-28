@@ -15,7 +15,8 @@ Greetings! 👋 I'm Tanishq Gupta, an 18-year-old computer science enthusiast cu
 
 Explore a diverse collection of projects that showcase my coding journey and technical prowess. From web development to blockchain, each repository represents a unique coding adventure.
 
-[![Spydiecy's GitHub | Stats](https://stats.quine.sh/Spydiecy/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Spydiecy)
+[![Spydiecy's GitHub | Stats](https://stats.quine.sh/Spydiecy/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=Spydiecy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Spydiecy's GitHub | Dependencies](https://stats.quine.sh/Spydiecy/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Spydiecy)
 
 ## Let's Collaborate!
 
