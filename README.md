@@ -7,9 +7,9 @@ Greetings! 👋 I'm Tanishq Gupta, an 18-year-old computer science enthusiast cu
 ## Skills
 
 - **Languages:** Python, Java, Solidity, JavaScript
-- **Web Development:** HTML, CSS, Bootstrap, React
+- **Web Development:** HTML, CSS, Bootstrap, React, Typescript
 - **Database Management:** MySQL
-- **Blockchain:** Solidity
+- **Blockchain:** Solidity, Motoko
 
 ## What You'll Find Here
 
