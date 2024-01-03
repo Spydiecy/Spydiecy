@@ -22,7 +22,7 @@ Explore a diverse collection of projects that showcase my coding journey and tec
 
 I'm open to collaboration and eager to contribute to exciting projects. If you have ideas or projects aligned with my skills and interests, let's connect and turn them into reality.
 
-🌐 [LinkedIn](https://www.linkedin.com/in/tanishq-gupta) | 💻 [GitHub](https://github.com/TanishqGupta03)
+🌐 [LinkedIn](https://www.linkedin.com/in/tanishqgupta-tech) | 💻 [GitHub](https://github.com/spydiecy)
 
 Feel free to reach out, and let's code something extraordinary together! 🚀
 
