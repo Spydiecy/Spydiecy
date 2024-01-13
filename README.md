@@ -2,7 +2,7 @@
 
 ## About Me
 
-Greetings! 👋 I'm Tanishq Gupta, an 18-year-old computer science enthusiast currently pursuing a B.Tech degree. Welcome to my GitHub repository, where code meets creativity, and passion fuels innovation.
+Greetings! 👋 I'm Tanishq Gupta, a computer science enthusiast currently pursuing a B.Tech degree. Welcome to my GitHub repository, where code meets creativity, and passion fuels innovation.
 
 ## Skills
 
