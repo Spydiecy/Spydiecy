@@ -1,4 +1,4 @@
-# Hi ![image](https://github.com/Spydiecy/Spydiecy/assets/100078125/e37d3a9f-08e7-4e4d-8216-7402e440d5c3) , I'm Tanishq
+# Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm Tanishq
 
 ## About Me
 
