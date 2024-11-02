@@ -6,10 +6,10 @@ Greetings! 👋 I'm Tanishq Gupta, a computer science enthusiast currently pursu
 
 ## Skills
 
-- **Languages:** Python, Java, Solidity, JavaScript
-- **Web Development:** HTML, CSS, Bootstrap, React, Typescript
+- **Languages:** Python, Java, C/C++
+- **Web Development:** HTML, CSS, Bootstrap, Tailwind, React, Typescript
 - **Database Management:** MySQL
-- **Blockchain:** Solidity, Motoko
+- **Blockchain:** Solidity, Motoko, MOVE, Rust
 
 ## What You'll Find Here
 
