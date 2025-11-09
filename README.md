@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Your Avg Dev by day ☼ and a Hackathon Winner by night ☾
+#### Your Avg Dev by day ☼ and a Hackathon Winner by night :p ☾
 
 Computer Science Student building the future of Web3;<br>
 Serial hackathon winner with 32+ victories;<br>
